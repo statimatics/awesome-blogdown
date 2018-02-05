@@ -252,5 +252,10 @@
         "name": "R & Census",
         "url": "http://www.gl-li.com/ ",
         "desc": "GL Li's personal website"
+},
+ {
+        "name": "statimatics.rbind.io",
+        "url": "https://statimatics.rbind.io/",
+        "desc": "Adventures in Data Science"
 }
 ]
